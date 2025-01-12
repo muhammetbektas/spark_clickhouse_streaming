@@ -1,0 +1,6 @@
+apache-airflow
+kafka-python
+kafka-python-ng
+clickhouse-driver
+spark
+#pyspark==3.5.1
