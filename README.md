@@ -26,7 +26,7 @@ The project aims to establish a real-time data analysis system for capturing and
 1- Clone the repository:
 
 ```
-git clone https://github.com/
+git clone https://github.com/muhammetbektas/spark_clickhouse_streaming.git
 ```
 
 2- Navigate to the project directory
