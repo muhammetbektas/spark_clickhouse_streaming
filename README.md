@@ -32,7 +32,7 @@ git clone https://github.com/muhammetbektas/spark_clickhouse_streaming.git
 2- Navigate to the project directory
 
 ```
-cd structured_streaming
+cd spark_clickhouse_streaming
 ```
 
 3- Set Up a Virtual Environment in Python
